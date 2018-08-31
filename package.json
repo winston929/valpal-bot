@@ -1,0 +1,17 @@
+{
+  "name": "valpal-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "webdriverio": "^4.13.2"
+  },
+  "devDependencies": {
+    "wdio-chromedriver-service": "^0.1.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
