@@ -5,7 +5,7 @@ client
     .init()
     .url('https://www.liverpoolecho.co.uk/news/property/inside-outlandishly-designed-house-market-14585716')
     .execute(() => {
-        //Click accpet cookies on iframe
+        //Click accpet cookies inside the iframe
         document.querySelector('.captify-iframe')
                 .contentDocument.querySelector('.gdpr-button.primary').click();
     })

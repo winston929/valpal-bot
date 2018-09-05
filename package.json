@@ -10,7 +10,7 @@
     "webdriverio": "^4.13.2"
   },
   "devDependencies": {
-    "wdio-chromedriver-service": "^0.1.3"
+    "sizzle": "^2.3.3"
   },
   "author": "",
   "license": "ISC"
